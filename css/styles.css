@@ -1,0 +1,16 @@
+body {
+  background-color: #bdd389;
+  color: #fff;
+}
+
+.holder {
+  background-color: #89bdd3;
+  padding: 0.5em 3em;
+  margin: 0 auto;
+  border-radius: 0  0 10px 10px;
+}
+
+h1 {
+  font-size: 5em;
+  margin-bottom: 0.5em;
+}
